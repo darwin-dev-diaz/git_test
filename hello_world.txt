@@ -1,1 +1,1 @@
-I'm writing in hello_world.txt. This is my first time using git and I feel like a beast.
+I've changed the text in hello_world.txt.
